@@ -1,0 +1,9 @@
+.DogDetails {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    margin-top: 50px;
+}
+
+.DogDetails img {
+    border: 6px black solid;
+    box-shadow: 0 0 20px #ffdb3d;
+}

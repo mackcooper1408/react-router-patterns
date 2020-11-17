@@ -1,0 +1,8 @@
+.ColorList li {
+  margin: 10px 0;
+  list-style-type: none;
+}
+
+.ColorList a {
+  text-decoration: none;
+}
